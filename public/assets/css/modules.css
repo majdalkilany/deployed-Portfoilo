@@ -514,7 +514,7 @@ button,
 
         #main > section.two {
             background-color: #f5fafa;
-            /* background-image: url("../../images/0.2.jpg"); */
+            background-image: url("../../images/0.2.jpg");
             color: #cc4a22;
             background-position: center center;
             font-weight: 400;
@@ -523,11 +523,23 @@ button,
         }
 
         #main > section.three {
-            background-color: #ecf1f1;
+            background-color:#212528;
             /* background-image: url("../../images/0.3.jpg"); */
+            color: wheat;
 
         }
 
         #main > section.four {
-            background-color: #e8edec;
+            background-color:#212528;
+            /* background-image: url("../../images/0.3.jpg"); */
+            color: wheat;
         }
+
+        .item {
+            opacity: .5;
+            
+
+        }
+.item:hover{
+    opacity: 1;
+}
