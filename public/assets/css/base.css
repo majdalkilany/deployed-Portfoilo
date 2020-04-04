@@ -2,8 +2,7 @@
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,600");
 
 /* Basic */
-
-    
+   
     html {
 		box-sizing: border-box;
 	}
@@ -20,7 +19,6 @@
 		line-height: 1.75em;
 		color: #888;
 	}
-
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
 			-moz-animation: none !important;
 			-webkit-animation: none !important;
